@@ -1,0 +1,40 @@
+/* Layout -------- */
+html,body,#qr-code-box{
+    height: 100%;
+}
+
+body{
+    background: hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+}
+
+/* Caixa ----- */
+.caixa{
+    background: hsl(0, 0%, 100%);
+    padding: 20px;
+    margin-top: 12.5em;
+    margin-bottom: 11em;
+    border-radius: 15px;
+}
+
+/*Imagem -------- */
+div.caixa img{
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+/*Tipografia ---------- */
+h3{
+    font-size: 1.5em;
+    font-weight: 700;
+    text-align: center;
+    color: hsl(218, 44%, 22%);
+}
+
+p{
+    font-size: 1em;
+    font-weight: 400;
+    text-align: center;
+    color: hsl(220, 15%, 55%);
+}
+
